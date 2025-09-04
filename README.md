@@ -35,6 +35,15 @@ Requirements
 Linux (tested on Ubuntu)
 Bash shell
 
+## Git Workflow Demonstration
+
+This repository also demonstrates a professional Git workflow:
+- Creating and working on a feature branch (`feature-update-readme`)
+- Making and committing changes
+- Merging the feature branch into `main`
+- Cleaning up the branch after merge
+- Tagging a release (`v0.1.0`)
+
 Author
 
 Saleh — Computer Engineer
