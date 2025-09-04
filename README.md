@@ -1,5 +1,7 @@
 Linux Automation Scripts
 
+This is a feature branch update for demonstration.
+
 A collection of Bash scripts that automate common Linux system tasks.
 This project is part of my DevOps learning journey and portfolio.
 
